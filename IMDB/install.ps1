@@ -1,0 +1,1 @@
+pip install https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow_cpu-2.11.0-cp39-cp39-win_amd64.whl
